@@ -22,40 +22,43 @@ Result : The test suite is created and is displayed in the Test Suites view.
 
 Result : The Test cases are added to the test suite.
 
-(-SC-)
+(-sc-)
 
 ## Delete Test Cases in Test Suite 	
-Step 1 :  Right click on the test Case you want to delete.
-Step 2 :  Click delete from the Context menu 
-Result :  Test Case will get Deleted.
-(SC-)
+Step 1 :  Right click on the test Case you want to delete.  
+Step 2 :  Click delete from the Context menu.  
+Result :  Test Case will get Deleted.  
+
+(-sc-)
 
 ## Deleting Test Suite
-Step 1 :  Right click on the Test Suite  you want to delete.
-Step 2 :  Click delete from the Context menu 
-Result :  Test Suite will be Deleted.
-(-SC-)
+Step 1 :  Right click on the Test Suite  you want to delete.  
+Step 2 :  Click delete from the Context menu.  
+Result :  Test Suite will be Deleted.  
+
+(-sc-)
 
 ## Executing Test Suite
-Step 1 : To execute the selected test suite, Click on the Execution Icon on the Test Suite Node.
-Step 2 : The execution confirmation dialog is displayed. Click OK
-Result : Test Suite Will get Executed 
-(-SC-)
+Step 1 : To execute the selected test suite, Click on the Execution Icon on the Test Suite Node.  
+Step 2 : The execution confirmation dialog is displayed. Click OK.  
+Result : Test Suite Will get Executed.  
+
+(-sc-)
 
 ## Understanding the Test Suite Execution Result
-When executing a test case in a test suite, it is the last execution of the test case that is presented in the test suite Execution Results view. 
-The Execution Result Node when further expanded will show the Execution Result of that Test Suite.
+When executing a test case in a test suite, it is the last execution of the test case that is presented in the test suite Execution Results view.  
+The Execution Result Node when further expanded will show the Execution Result of that Test Suite.  
 
-(-SC-)
+(-sc-)
 
 When executing a test case in a test suite, it is the last execution of the test case that is presented in the test suite Execution Results view. The test case Execution Results view gives access to the individual result of all the executions of the test case.
 
-(-SC-)
+(-sc-)
 
 ## Viewing code Coverage Report 
 On the Test Suite Result Node , Right click to show the context menu then click on “Show Code Coverage”
 
 A single code coverage report for all the test cases within the test suite is displayed in the editor.
 
-(-SC-)
+(-sc-)
 

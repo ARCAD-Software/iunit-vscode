@@ -11,7 +11,7 @@ Click the three dot icon (...) in the upper-right corner of the Extensions view 
 Locate and select the downloaded VSIX file.
 Click the "Install" button to install the extension.
 
-(-SC-)
+(-sc-)
 
 ## Add the Required AFS Server Configuration
 
@@ -19,7 +19,7 @@ After installation, open your project or workspace in Visual Studio Code.
 Access the extension's settings by clicking on the gear icon in the bottom left corner (Settings) and then selecting "Extensions" > "iUnit Extension."
 Enter the required AFS server configuration, including Server address, Port, Host Name , Trace and other required fields.
 
-(-SC-)
+(-sc-)
 
 ## Connect to AFS
 
@@ -30,4 +30,4 @@ This will establish a connection to the AFS server using the provided configurat
 
 Note* : For a detailed walkthrough of iUnit, refer to the Visual Studio Code Walkthrough by clicking on Get Started.
 
-(-SC-)
+(-sc-)
