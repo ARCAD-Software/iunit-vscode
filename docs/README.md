@@ -5,4 +5,6 @@
 Create unit tests automatically from IBM i source code in just a few clicks!
 
 ## Features
-- Awesome
+
+- Code Coverage
+- JUnit
