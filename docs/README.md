@@ -1,4 +1,4 @@
-# ARCAD-iUnit VSCode extension
+# ARCAD iUnit VSCode extension
 ![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit](https://img.shields.io/visual-studio-marketplace/v/arcadsoftware.arcad-iunit)
 ![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit](https://img.shields.io/visual-studio-marketplace/i/arcadsoftware.arcad-iunit)
 

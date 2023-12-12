@@ -1,4 +1,4 @@
-* [ARCAD-iUnit](/)
+* [ARCAD iUnit](/)
 
 * With iUnit
     * [Getting Started](pages/getting-started.md)

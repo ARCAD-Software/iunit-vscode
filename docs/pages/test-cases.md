@@ -23,7 +23,8 @@ ARCAD iUnit simplifies the creation of test cases by retrieving all the procedur
 
 The name of the procedure(s) will be automatically generated based on the selected object and procedure. However, if needed, you can edit the generated name to provide a more descriptive or meaningful identifier for the procedure being Tested.
 
-*note : Skip Source Parsing Allows you to skip the Parsing of Selected Procedure Source member.
+>note  
+Skip Source Parsing Allows you to skip the Parsing of Selected Procedure Source member.
 
 4. Click Enter.
 
@@ -58,7 +59,7 @@ When working with a test case, expected results may need to be changed.
 
 You can use this option to access the expected result again. Follow the subsequent steps to change the expected result of a test case. 
 
-1. Right-click on a test case and click the Change Expected Result option. The Input Parameter Definition dialog opens. 
+1. Right-click on a test case and click the **Change Expected Result** option. The Input Parameter Definition dialog opens. 
 2. Change the input or output values for the parameters. Click OK. 
 
 The expected result has changed.
