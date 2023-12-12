@@ -2,7 +2,7 @@
     <img src="./docs/media/logo.png" />
 </div>
 
-# ARCAD-iUnit for VSCode extension
+# ARCAD iUnit for VSCode extension
 ![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit](https://img.shields.io/visual-studio-marketplace/v/arcadsoftware.arcad-iunit)
 ![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit](https://img.shields.io/visual-studio-marketplace/i/arcadsoftware.arcad-iunit)
 
