@@ -1,10 +1,10 @@
 # Getting Started
 
 ## Prerequisites
-An up and running ARCAD-iUnit server, version 24.0 or above. The server's installation package can be downloaded from [ARCAD's Customer Portal](https://portal.arcadsoftware.com/).
+An up and running ARCAD iUnit server, version 24.0 or above. The server's installation package can be downloaded from [ARCAD's Customer Portal](https://portal.arcadsoftware.com/).
 
 ## Install  the VSCode Extension (Using VSIX File)
-1. Download and install the `ARCAD-iUnit` extension from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit).
+1. Download and install the `ARCAD iUnit` extension from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit).
 Open Visual Studio Code.
 Navigate to the Extensions view by clicking on the Extensions icon in the sidebar or pressing Ctrl+Shift+X.
 Click the three dot icon (...) in the upper-right corner of the Extensions view and select "Install from VSIX."
@@ -28,6 +28,7 @@ This will establish a connection to the AFS server using the provided configurat
 
 (-sc-)
 
-Note* : For a detailed walkthrough of iUnit, refer to the Visual Studio Code Walkthrough by clicking on Get Started.
+>Note  
+For a detailed walkthrough of iUnit, refer to the Visual Studio Code Walkthrough by clicking on Get Started.
 
 (-sc-)

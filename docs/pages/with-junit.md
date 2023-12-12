@@ -2,7 +2,8 @@
 
 ## Prerequisites
 
-*Note : The test case information will only be stored in local project folders.
+>note  
+The test case information will only be stored in local project folders.
 
 Before you can start using the VSCode JUnit in the Arcad iUnit extension, you need to ensure that you have met the following prerequisites:
 
