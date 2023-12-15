@@ -2,7 +2,7 @@
 In order to execute unit-tests on your applications via JUnit, you must first set up the testing
 environment. This involves creating projects and managing repositories and versions.
 
-ARCAD-iUnit projects are used to create and run unit test cases via JUnit.
+ARCAD iUnit projects are used to create and run unit test cases via JUnit.
 
 ![junit-image](../media/junit.png)
 
@@ -15,16 +15,16 @@ technology.
 ![extension-image](../media/extension-pack-for-java.png)
 
 
-## Importing the ARCAD-iUnit project
+## Importing the ARCAD iUnit project
 
 **Note:** : To Run the jUnit-iUnit Project You have to Manually Import the iUnit Project to the Workspace.
 
-To import the ARCAD-iUnit project, follow these steps:
+To import the ARCAD iUnit project, follow these steps:
 
-1. Right-click on the repository and select "Export to ARCAD-iUnit Project" from the ARCAD-iUnit Extension.
-2. The ARCAD-iUnit project will be created with the same name as the repository.
+1. Right-click on the repository and select "Export to ARCAD iUnit Project" from the ARCAD iUnit Extension.
+2. The ARCAD iUnit project will be created with the same name as the repository.
 3. The project will be added to the current workspace in the VS Code IDE.
-4. The jUnit Extension will automatically detect the ARCAD-iUnit project and display the test cases in the Test Explorer.
+4. The jUnit Extension will automatically detect the ARCAD iUnit project and display the test cases in the Test Explorer.
 5. You can execute the test cases directly from the Test Explorer.
 6. The test results will be shown in the Test Results window.
 
