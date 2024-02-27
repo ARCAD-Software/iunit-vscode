@@ -1,19 +1,32 @@
-# ARCAD-iUnit VSCode extension
+# ARCAD iUnit VSCode extension
+<!-- Version numbers not correctly diplayed -->
 ![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit](https://img.shields.io/visual-studio-marketplace/v/arcadsoftware.arcad-iunit)
 ![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit](https://img.shields.io/visual-studio-marketplace/i/arcadsoftware.arcad-iunit)
 
+## Welcome to ARCAD iUnit for VSCode documentation!
+
 <!-- About the iUnit VScode Extension -->
 ## About
-The ARCAD-iUnit VSCode extension allows you to create unit tests automatically from IBM i source code in just a few clicks in VS Code.
+The ARCAD-iUnit VSCode extension allows you to create unit tests automatically from IBM i source code in just a few clicks in Visual Studio Code.
 
-![iunit-intro](../media/iunit-intro.png)
+![iunit-intro](../media/iunit-intro.png)  
+_Working with iUnit_
+
+This documentation contains:
+- Detailed installation and configuration processes for ARCAD iUnit extension.  
+- The main documentation of the concepts, interfaces and features of ARCAD iUnit extension.
+
+## Contents
+- [Getting Started](pages/getting-started.md)
+- [iUnit for VSCode](pages/getting-started.md)
+- [JUnit for VSCode](pages/getting-started.md)
 
 <!-- Prerequisites -->
 ## Prerequisites
-An up and running ARCAD-iUnit server, version 24.0 or above. The server's installation package can be downloaded from [ARCAD's Customer Portal](https://portal.arcadsoftware.com/).
+Before you start, make sure you have an up and running ARCAD-iUnit server, version 24.0 or above.  
+The server's installation package can be downloaded from [ARCAD's Customer Portal](https://portal.arcadsoftware.com/).
 
-
-<!-- Installation -->
+<!-- Installation
 ## Installation
 ### Install the VSCode Extension (Using VSIX File)
 1. Download and install the `ARCAD-iUnit` extension from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit).
@@ -32,9 +45,9 @@ An up and running ARCAD-iUnit server, version 24.0 or above. The server's instal
 
 6. Click the "Install" button to install the extension.
 
-![Install](../media/install.png)
+![Install](../media/install.png) -->
 
-### Add the Required AFS Server Configuration
+<!-- ### Add the Required AFS Server Configuration
 
 After installation, open your project or workspace in Visual Studio Code.
 
@@ -56,33 +69,21 @@ This will establish a connection to the AFS server using the provided configurat
 
 Note* : For a detailed walkthrough of iUnit, refer to the Visual Studio Code Walkthrough by clicking on Get Started.
 
-![Get Started](../media/get-started.png)
+![Get Started](../media/get-started.png) -->
 
 <!-- Features -->
 ## Features
-### Create Test Cases
-Create test cases from source code in just a few clicks.
+You can use the iUnit for VS Code extension to:
+- Create Test Cases from the source code,  
+- Create Test Suites from the source code, and
+- Run Test Cases in just a few clicks.
 
+<!-- images 
 ![Create Test Cases](../media/create-test-cases.png)
-
-### Create Test Suites
-
-Create test suites from source code in just a few clicks.
-
 ![Create Test Suites](../media/create-test-suites.png)
-
-### Run Test Cases
-
-Run test cases from source code in just a few clicks.
-
 ![Run Test Cases](../media/run-test-cases.png)
+-->
 
-
-<!-- License -->
+<!-- License (??) -->
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-<!-- Contact -->
-## Contact
-ARCAD Software - [https://www.arcadsoftware.com/contact/](https://www.arcadsoftware.com/contact/)
-
