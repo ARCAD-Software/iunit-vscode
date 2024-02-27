@@ -35,7 +35,7 @@ If you previously added Repositories with the same configuration, they are be au
 
 If that is not the case, you have to manually add the Repositories to the Explorer.
 
-![adding_repo](.//../../media/add-repo-to-explorer.png)
+![adding_repo](./../../media/add-repo-to-explorer.png)
 _Adding a  Repository to the Explorer_
 
 Follow the subsequent steps to add a Repository to the Explorer.

@@ -9,7 +9,7 @@
 ## About
 The ARCAD iUnit VSCode extension allows you to create unit tests automatically from IBM i source code in just a few clicks in Visual Studio Code.
 
-![iunit-intro](../media/iunit-intro.png)  
+![iunit-intro](./media/iunit-intro.png)  
 _Working with iUnit_
 
 This documentation contains:

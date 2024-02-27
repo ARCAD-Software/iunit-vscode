@@ -36,7 +36,7 @@ To edit a test case, right-click on the test case and select the **Edit** option
 ![edit-testcase](./../../media/edit-testcase.png)  
 _Edit a Test Case_
 
-### Add Before/After Test Case Execution Command  
+### Adding Before/After Test Case Execution Command  
 
 ![add-before-after-command](./../../media/before-after-command.png)  
 _Add a command_
@@ -52,11 +52,11 @@ Follow the subsequent steps to add a command to execute before or after the test
 
 **Result** &nbsp; The command is successfully added.
 
-### Add Input Parameters
+### Adding Input Parameters
 
 To add input parameters to a test case, click the **Add** button to open the **Procedure Parameter Definition** dialog and add the input parameters.
 
-![add-input-parameters](./../../media/add-inputparameter.png)  
+![add-input-parameters](./../../media/add-inputParameter.png)  
 _Add Input parameters_
 <!-- please retake this screenshot as it is not possible to read it-->
 
