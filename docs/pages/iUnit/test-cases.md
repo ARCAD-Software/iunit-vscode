@@ -2,9 +2,6 @@
 
 ## Creating a new Test Case
 
-![testcases-list](./../../media/testcases.png)  
-_Test Cases in the Repository Explorer_
-
 ARCAD iUnit simplifies the creation of test cases by retrieving all the procedures and parameters of the parent object targeted by the test case.
 
 The test cases can be created manually or by using an existing ARCAD iUnit repository depending on the object details. 
@@ -131,30 +128,30 @@ To view the outcome, expand the items from the **Test Case** Node, where the exe
 > **Note**  
 A green icon indicates a successfully executed Test Case, whereas the red icon signifies a failed one.  
 
-![testcases-list](./../../media/testcase-result.png)  
+![testcases-result](./../../media/testcase-result.png)  
 _Test Cases list_
 
 ### Viewing Test Case Execution Result
     
 To view the execution result of a test case, right-click on the test case and select the **Show Execution Results** option.
 
-![testcases-list](./../../media/testcase-result-context.png)  
+![testcase-result-context](./../../media/testcase-result-context.png)  
 _Show Execution Result_
 
 The execution result is displayed.
 
-![testcases-list](./../../media/test-execution-result.png)  
+![test-execution-result](./../../media/test-execution-result.png)  
 _Test Case Result_
 
 ### Viewing Test Case Execution Log
 
 To view the execution log of a test case, right-click on the test case and select the **Show IBM i logs** option.
 
-<!-- ![testcases-list](./../../media/testcase-logs-context.png)-->
+<!-- ![test-execution-result](./../../media/testcase-logs-context.png)-->
 
 The execution is displayed like so.
 
-![testcases-list](./../../media/testcase-logs-window.png)
+![testcase-logs-window](./../../media/testcase-logs-window.png)
 
 ## Viewing the Code Coverage Report
 
@@ -169,10 +166,17 @@ Follow the subsequent steps to display the code coverage report for an individua
 
 **Step 3** &nbsp; Right-click on the Execution Result and click the **Show Code Coverage Report** option.
 
-![testcases-list](./../../media/code-coverage-context.png)  
+![code-coverage-context](./../../media/code-coverage-context.png)  
 _Show Code Coverage_
 
 The code coverage report is displayed like so.
 
-![testcases-list](./../../media/code-coverage-report.png)  
+![code-coverage-report](./../../media/code-coverage-report.png)  
 _File Level Code Coverage Result_
+
+### Viewing Code Coverage By Source Member
+
+To view the code coverage by source member, click on the right to the source member name.
+
+![testcases-list](./../../media/code-coverage-report-source.png)
+

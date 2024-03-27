@@ -24,9 +24,7 @@ After the installation is completed, open your project or workspace in Visual St
 Access the extension's settings by clicking on the Settings icon and then selecting **Extension" > iUnit Extension**.  
 Enter the required AFS server configuration:
 - Server address,
-- Port,
-- Host Name,
-- Trace.
+- Port
 
 ## Connect to AFS
 

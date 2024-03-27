@@ -8,7 +8,7 @@
 > * Set the new Repository's ASP Group,  
 > * Add libraries to the Repository.  
     
-![create_repo](./../../media/Add-Repository.jpg)
+![create_repo](./../../media/add-Repository.png)
 _Creating a new Repository_
 
 **Step 2** &nbsp; Click the **Add Repository** button.  
@@ -35,13 +35,17 @@ If you previously added Repositories with the same configuration, they are be au
 
 If that is not the case, you have to manually add the Repositories to the Explorer.
 
-![adding_repo](./../../media/add-repo-to-explorer.png)
+![adding_repo](./../../media/add-repo-to-explorer.png)  
 _Adding a  Repository to the Explorer_
 
 Follow the subsequent steps to add a Repository to the Explorer.
 
-**Step 1** &nbsp; Click on the**Add Repository to Explorer** button in the iUnit Extension panel to display the Repositories of the connected Server.
+**Step 1** &nbsp; Click on the **Add Repository to Explorer** button in the iUnit Extension panel to display the Repositories of the connected Server.
 
 **Step 2** &nbsp; Select the Repository you want to work with to ass them to the Explorer.
+
+![list_repo](./../../media/add-repo-to-explorer-list.png)  
+_Select the Repository to work from the List of iUnit Repositories_
+
 
 **Result** &nbsp; The selected Repositories succesffully added to the iUnit Repository Explorer, allowing you to access and manage its Test Cases, Test Suites and other functionalities.

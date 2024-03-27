@@ -26,6 +26,8 @@ To run the JUnit-iUnit project, you have to manually import the ARCAD iUnit proj
 To import the ARCAD iUnit project in the Workspace, right-click on the repository and click the **Export to ARCAD iUnit Project** option from the ARCAD iUnit Extension.  
 The ARCAD iUnit project is then created with the same name as the repository and added to the current Workspace in the Visial Studio Code IDE.
 
+![export-to-iunit-project-image](./../../media/junit-export-to-iunit-project.png)
+
 The JUnit extension detects automatically the ARCAD iUnit project and displayd the test cases in the **Test Explorer** view.  
 You can execute the test cases directly from the **Test Explorer** view and the test results are shown in the **Test Results** window.
 
