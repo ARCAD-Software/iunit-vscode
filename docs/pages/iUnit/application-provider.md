@@ -11,89 +11,79 @@ The automatic actions settings as it is in RDi mode, should be active in Visual 
 
 Follow the subsequent steps to link the Application to the Repository.
 
-**Step 1** &nbsp; Right-click on the Repository you want to link to the Application to open the context menu.
+**Step 1**   Right-click on the Repository you want to link to the Application to open the context menu.
 
-**Step 2** &nbsp; Select the **Link Application** option from the Context Menu.
+**Step 2**   Select the **Link Application** option from the Context Menu.
 
-**Step 3** &nbsp; A new window opens to let you select the **SCM Provider**.
+**Step 3**   A new window opens to let you select the **SCM Provider**.
 
 ![application-context](./../../media/link-application-window.png)
 
-**Step 4** &nbsp; Select the SCM Provider and press **Enter**.
+**Step 4**   Select the SCM Provider and press **Enter**.
 
-**Step 5** &nbsp; A new window opens to let you select the **Application**.
+**Step 5**   A new window opens to let you select the **Application**.
 
 ![application-context](./../../media/choose-application-window-2.png)
 
-**Step 6** &nbsp; Select the Application and press **Enter**.
+**Step 6**   Select the Application and press **Enter**.
 
-**Result** &nbsp; The Application is successfully linked to the Repository.
+**Result**   The Application is successfully linked to the Repository.
 
 > **Note**  
-> Linking the Application to the Repository clears all the Libraries. It also adds the application library to the Repository and re-initializes the Repository.
+Linking the Application to the Repository clears all the Libraries. It also adds the application library to the Repository and re-initializes the Repository.
 
 ## Update Skipper Application Settings
 
 Follow the subsequent steps to update the Skipper Application settings.
 
-**Step 1** &nbsp; Right-click on the Repository you want to update the settings for.
+**Step 1** Right-click on the Repository you want to update the settings for.
 
-**Step 2** &nbsp; Select the **Skipper Application Settings** option from the Context Menu.
+**Step 2** Select the **Skipper Application Settings** option from the Context Menu.
 
 ![application-context](./../../media/update-skipper-application-settings-context.png)
 
-**Step 3** &nbsp; A new window opens to let you update the Skipper Application settings for Automation.
+A new window opens to let you update the Skipper Application settings for Automation.
 
 ![application-context](./../../media/update-skipper-application-settings-window.png)
 
-**Step 4** &nbsp; Update the Skipper Application settings by clicking the Save Icon on the window **Enter**.
-
+**Step 3** Update the Skipper Application settings by clicking the Save icon on the **Enter** window.
 
 ## Viewing Linked Versions in the Repository
 
-> __Note__  
-> Once the Repository is linked to the Version, an extra node labeled 'Versions' will appear in the tree view. This node will contain all the linked versions. If a version has child versions, the Version Repository Node will be displayed under the version node. 
+> **Note**  
+Once the Repository is linked to the Version, an extra node called 'Versions' appears in the tree view.  
+This node contains all the linked versions.  
+If a version has child versions, the Version Repository Node is displayed under the version node. 
 
 ### Adding Version Repository Manually
 
-If the **Auto Version Repository Creation** setting is not selected in the Skipper application, or if a version has already been created in skipper, follow these steps to manually add a version repository in iunit:
+If the **Auto Version Repository Creation** setting is not selected in the Skipper application, or if a version has already been created in skipper, follow the subsequent steps to manually add a version repository in iunit.
 
-**Step 1** &nbsp; Click on the icon of 'Add Version'. This will display a list of available version repositories.
+**Step 1** Click on the **Add Version** icon. A list of available version repositories is displayed.
  
  ![application-context](./../../media/add-version-repository.png)
   
-**Step 2** &nbsp; Select the version repository you want to add and click on the 'Add' button.
+**Step 2** Select the version repository you want to add and click the **Add** button.
 
 ![application-context](./../../media/select-version-repository.png)
 
-**Step 3** &nbsp; The version repository will be added to the repository.
+**Step 3** The version repository is added to the repository.
 
 ![application-context](./../../media/version-repository.png)
 
-
 ### Checkout Test Case in Version Repository
 
-To checkout a Test Case in the Version Repository, follow these steps:
+Follow the subsequent steps to checkout a Test Case in the Version Repository.
 
-**Step 1** &nbsp; Click on the Test Case checkout icon given on the Test Cases Node.
+**Step 1** Click the Test Case checkout icon given on the Test Cases Node.
 
 ![application-context](./../../media/checkout-test-case.png)
 
-**Step 2** &nbsp; Choose Test Case to checkout and click on the 'Ok' button.
+**Step 2** Choose the Test Case to checkout and click on the **Ok** button.
 
 ![application-context](./../../media/checkout-test-case-list.png)
 
-**Result** &nbsp; The Test Case is successfully checked out in the Version Repository.
+**Result** The Test Case is successfully checked out in the Version Repository.
 
-> __Note__
-> To Successfully checkout a Test Case, the Test Case Object must be checked out in the Version Repository and compiled.
-
-
-
-  
-
-
-
-
-
-
+> **Note**
+To Successfully checkout a Test Case, the Test Case Object must be checked out in the Version Repository and compiled.

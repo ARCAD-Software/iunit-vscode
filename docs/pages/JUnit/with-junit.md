@@ -8,10 +8,13 @@ ARCAD iUnit projects are used to create and run unit test cases via JUnit.
 _Working with JUnit_
 
 ## Prerequisites
-Before you start, it is necessary to habve prior knowledge of JUnit testing methods and technical vocabulary. This documentation does not cover JUnit technology.
+Before you start, it is necessary to have prior knowledge of JUnit testing methods and technical vocabulary.
+
+> **Important**  
+This documentation does not cover the JUnit technology.
 
 > **Reference**  
-For more information about JUnit, refer to the [documentation](https://help-arcad-iunit.arcadsoftware.com/Topics/JUnit/JUnit-Intro.html).
+For more information about JUnit, refer to this [JUnit documentation](https://help-arcad-iunit.arcadsoftware.com/Topics/JUnit/JUnit-Intro.html).
 
 Make sure that the [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) is installed in your Visual Studio Code IDE to use the JUnit testing features.
 
@@ -24,18 +27,9 @@ _Extension Pack for Java_
 To run the JUnit-iUnit project, you have to manually export the ARCAD iUnit project to the Workspace.
 
 To export the ARCAD iUnit project in the Workspace, right-click on the repository and click the **Export to ARCAD iUnit Project** option from the ARCAD iUnit Extension.  
-The ARCAD iUnit project is then created with the same name as the repository and added to the current Workspace in the Visial Studio Code IDE.
+The ARCAD iUnit project is then created with the same name as the repository and added to the current Workspace in the Visual Studio Code IDE.
 
 ![export-to-iunit-project-image](./../../media/junit-export-to-iunit-project.png)
 
-The JUnit extension detects automatically the ARCAD iUnit project and displayd the test cases in the **Test Explorer** view.  
+The JUnit extension detects automatically the ARCAD iUnit project and displays the test cases in the **Test Explorer** view.  
 You can execute the test cases directly from the **Test Explorer** view and the test results are shown in the **Test Results** window.
-
-
-
-
-
-
-
-
-
