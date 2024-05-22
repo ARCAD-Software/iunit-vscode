@@ -9,3 +9,5 @@
 
 * JUnit for VSCode
     * [Setting Up](pages/JUnit/with-junit.md)
+    * [Test Case in jUnit](pages/JUnit/junit-test-case.md)
+    * [Mocking in jUnit](pages/JUnit/junit-mocking.md)

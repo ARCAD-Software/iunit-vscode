@@ -8,15 +8,15 @@ Before you start using the iUnit extension for Visual Studio Code, make sure you
 
 ## Installing  the VSCode Extension (Using VSIX File)
 
-**Step 1** &nbsp; Download and install the `ARCAD iUnit` extension from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit).
+**Step 1**   Download and install the `ARCAD iUnit` extension from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-iunit).
 
-**Step 2** &nbsp; Once installed, open Visual Studio Code and navigate to the **Extensions** view by clicking the **Extensions** icon in the sidebar or pressing `Ctrl + Shift + X`.
+**Step 2**   Once installed, open Visual Studio Code and navigate to the **Extensions** view by clicking the **Extensions** icon in the sidebar or pressing `Ctrl + Shift + X`.
 
-**Step 3** &nbsp; Click the three dot icon **(...)** in the upper-right corner of the Extensions view and select the **Install from VSIX** option.
+**Step 3**   Click the three dot icon **(...)** in the upper-right corner of the Extensions view and select the **Install from VSIX** option.
 
-**Step 4** &nbsp; Locate and select the downloaded VSIX file.
+**Step 4**   Locate and select the downloaded VSIX file.
 
-**Step 5** &nbsp; Click the **Install** button to launch the installation of the extension.
+**Step 5**   Click the **Install** button to launch the installation of the extension.
 
 ## Add the Required AFS Server Configuration
 
@@ -24,9 +24,7 @@ After the installation is completed, open your project or workspace in Visual St
 Access the extension's settings by clicking on the Settings icon and then selecting **Extension" > iUnit Extension**.  
 Enter the required AFS server configuration:
 - Server address,
-- Port,
-- Host Name,
-- Trace.
+- Port
 
 ## Connect to AFS
 

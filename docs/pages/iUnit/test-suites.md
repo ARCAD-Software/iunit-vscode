@@ -7,33 +7,33 @@ A Test Suite can be executed as a whole, or the Test Cases contained in the Test
 
 Follow the subsequent steps to create a Test Suite.
 
-**Step 1** &nbsp; From the Test Suites view, click the **(+)** Create Test Suite icon.
+**Step 1**   From the Test Suites view, click the **(+)** Create Test Suite icon.
 
 ![create-testsuite](./../../media/create-testsuite.png)  
 _Create a Test Suite_
 
-**Step 2** &nbsp; Set the name of the new Test Suite and press **Enter** to confirm.
+**Step 2**   Set the name of the new Test Suite and press **Enter** to confirm.
 
 <!--![create-testsuite](./../../media/testsuite-name.png)-->
 
-**Result** &nbsp; The Test Suite is created and displayed in the Test Suites Explorer.
+**Result**   The Test Suite is created and displayed in the Test Suites Explorer.
 
 ## Add a Test Case in Test Suite
 Follow the subsequent steps to add a Test Case in a Test Suite.
 
-**Step 1** &nbsp; Expand the **Test Suites** Node.
+**Step 1**   Expand the **Test Suites** Node.
 
-**Step 2** &nbsp; Click the **(+)** icon when hovering the **Test Cases** Node.
+**Step 2**   Click the **(+)** icon when hovering the **Test Cases** Node.
    
 ![add-testcase](./../../media/add-testcase-testsuite.png)  
 _Add Test Case_
 
-**Step 3** &nbsp; The list of Test Cases of that repository is displayed. Select the Test Cases you want to add in the Test Suite and press **Enter**.
+**Step 3**   The list of Test Cases of that repository is displayed. Select the Test Cases you want to add in the Test Suite and press **Enter**.
 
 ![add-testcase-list](./../../media/add-testcase-list.png)  
 _Select Test Cases_
 
-**Result** &nbsp; The Test Cases are successfully added to the Test Suite.
+**Result**   The Test Cases are successfully added to the Test Suite.
 
 ![add-testcase-list](./../../media/testcase-testsuite-list.png)  
 _Test Cases in the Test Suite_
@@ -42,14 +42,14 @@ _Test Cases in the Test Suite_
 
 Follow the subsequent steps to execute a Test Suite.
 
-**Step 1** &nbsp; Select a Test Suite and click the **Execution** icon in the **Test Suite** Node.
+**Step 1**   Select a Test Suite and click the **Execution** icon in the **Test Suite** Node.
 
 ![execute-testsuite](./../../media/execute-testsuite.png)  
 _Execute a Test Suite_
 
-**Step 2** &nbsp; The execution confirmation dialog is displayed. Click **OK**.
+**Step 2**   The execution confirmation dialog is displayed. Click **OK**.
 
-**Result** &nbsp; The Test Suite is successfully Executed.
+**Result**   The Test Suite is successfully Executed.
 
 ## Understanding the Test Suite Execution Result
 
@@ -81,29 +81,29 @@ _Code Coverage Report_
 
 Follow the subsequent steps to delete a Test Case in a Test Suite. 
 
-**Step 1** &nbsp; Hover on the Test Case to delete then click the **Delete** icon.
+**Step 1**   Hover on the Test Case to delete then click the **Delete** icon.
 
 ![delete-testcase](./../../media/delete-testcase-testsuite.png)  
 _Delete Test Cases_
 
-**Step 2** &nbsp; An warning message is displayed, click **Yes** to confirm the deletion of the Test Case.
+**Step 2**   An warning message is displayed, click **Yes** to confirm the deletion of the Test Case.
 
 <!-- This is repetitive ? 4. Click on the Delete button to delete the Test Case.-->
 
 <!-- ![delete-testcase](./../../media/delete-testcase-testsuite-prompt.png)-->
 
-**Result** &nbsp; The Test Case is successfully deleted.
+**Result**   The Test Case is successfully deleted.
 
 ## Deleting Test Suite
 
-**Step 1** &nbsp; Hover on the Test Suite to delete then click on the **Delete** icon.
+**Step 1**   Hover on the Test Suite to delete then click on the **Delete** icon.
 
 ![delete-testsuite](./../../media/delete-testsuite.png)  
 _Delete Test Suites_
 
-**Step 2** &nbsp; An warning message is displayed, click **Yes** to confirm the deletion of the Test Suite.
+**Step 2**   An warning message is displayed, click **Yes** to confirm the deletion of the Test Suite.
 
-**Result** &nbsp; The Test Suite is successfully deleted.
+**Result**   The Test Suite is successfully deleted.
 
 <!-- This is repetitive ? 4. Click on the Delete button to delete the Test Suite.-->
 
