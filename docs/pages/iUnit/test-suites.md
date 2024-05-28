@@ -28,7 +28,7 @@ Follow the subsequent steps to add a Test Case in a Test Suite.
 ![add-testcase](./../../media/add-testcase-testsuite.png)  
 _Add Test Case_
 
-**Step 3**   The list of Test Cases of that repository is displayed. Select the Test Cases you want to add in the Test Suite and press **Enter**.
+**Step 3** The list of Test Cases of that repository is displayed. Select the Test Cases you want to add in the Test Suite and press **Enter**.
 
 ![add-testcase-list](./../../media/add-testcase-list.png)  
 _Select Test Cases_
