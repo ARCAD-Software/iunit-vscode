@@ -12,3 +12,4 @@
     * [Test Case in jUnit](pages/JUnit/junit-test-case.md)
     * [Mocking in jUnit](pages/JUnit/junit-mocking.md)
     * [Variable Tracing in jUnit](pages/JUnit/junit-variable-tracing.md)
+    * [CI/CD in jUnit](pages/JUnit/junit-ci-cd.md)
