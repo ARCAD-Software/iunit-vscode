@@ -1,7 +1,6 @@
 # Test Suites
 
 A Test Suite is a collection of test cases that are grouped and executed together.  
-A Test Suite can be executed as a whole, or the Test Cases contained in the Test Tuite can be executed individually.
 
 ## Create a Test Suite
 
